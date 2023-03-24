@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sidhartha426
-- 👀 I’m interested in ... 
+- 👀 I’m interested in ... AI ML and Reading Philosophy
 - 🌱 I’m currently learning ... MERN Stack
 - 💞️ I’m looking to collaborate on ... MERN Projects
 - 📫 How to reach me ... contact@sid426.dev
